@@ -1,5 +1,4 @@
 # Binaries
-task-cli
 *.exe
 *.out
 
