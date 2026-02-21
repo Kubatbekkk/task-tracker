@@ -1,0 +1,10 @@
+# Binaries
+task-cli
+*.exe
+*.out
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
