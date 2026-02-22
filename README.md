@@ -1,5 +1,5 @@
 # Task Tracker CLI
-
+[Project's Page on Roadmap.sh](https://roadmap.sh/projects/task-tracker)<br>
 A simple command-line task tracker built in Go.
 
 The application allows you to manage tasks directly from the terminal and stores them in a JSON file in the current directory.
@@ -24,17 +24,17 @@ The application allows you to manage tasks directly from the terminal and stores
 
 ## Project Structure
 
-task-tracker/
-├── cmd/
-│   └── task-cli/
-│       └── main.go
-├── internal/
-│   └── task/
-│       ├── model.go
-│       ├── service.go
-│       └── storage.go
-├── go.mod
-└── README.md
+task-tracker/<br>
+├── cmd/<br>
+│   └── task-cli/<br>
+│       └── main.go<br>
+├── internal/<br>
+│   └── task/<br>
+│       ├── model.go<br>
+│       ├── service.go<br>
+│       └── storage.go<br>
+├── go.mod<br>
+└── README.md<br>
 
 ### Architecture
 
